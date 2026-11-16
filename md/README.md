@@ -8,10 +8,8 @@ The plugin currently provides:
 - guidance for async Rust built on Tokio, actors, and cancellation-safe
   concurrency;
 - Google's unsafe Rust review skill;
-- a portable Symposium hook engine.
-
-The hook engine is currently a no-op: every registered hook permits the event
-without modifying it.
+- a skill that has the agent run the project's tests before calling a change
+  done.
 
 ## License
 

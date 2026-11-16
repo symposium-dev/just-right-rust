@@ -1,14 +1,14 @@
 [package]
 name = "just-right-rust"
-version = "0.1.1"
+version = "0.1.2"
 edition = "2024"
 rust-version = "1.85"
 description = "Opinionated Rust recommendations and hooks for Symposium"
 license = "MIT OR Apache-2.0"
 readme = "README.md"
-repository = "https://github.com/nikomatsakis/just-right-rust"
-homepage = "https://nikomatsakis.github.io/just-right-rust/"
-documentation = "https://nikomatsakis.github.io/just-right-rust/"
+repository = "https://github.com/symposium-dev/just-right-rust"
+homepage = "https://symposium-dev.github.io/just-right-rust/"
+documentation = "https://symposium-dev.github.io/just-right-rust/"
 keywords = ["rust", "async", "unsafe", "symposium", "coding-agents"]
 categories = ["development-tools"]
 authors = ["Niko Matsakis"]
